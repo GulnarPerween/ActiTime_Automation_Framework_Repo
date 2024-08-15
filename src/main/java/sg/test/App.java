@@ -11,6 +11,8 @@ public class App {
         public void method()
         {
         	System.out.println("Hello");
+        	System.out.println("Hello");
+        	System.out.println("Hello");
         }
     
 }
