@@ -21,6 +21,10 @@ public class App {
         	System.out.println("Tim");
         	System.out.println("Tim");
         	System.out.println("Tim");
+        	
+        	System.out.println("JOHN");
+        	System.out.println("JOHN");
+        	System.out.println("JOHN");
         }
     
 }
